@@ -11,12 +11,12 @@ Principais Análises Realizadas:
 - Mapeamento geográfico das atividades por categoria.
 Além dessas análises, o projeto ainda oferece potencial para outras investigações, aproveitando as ramificações estabelecidas durante a preparação dos dados.
 
-Para mais detalhes sobre as principais dificuldades e soluções no processo de limpeza e manipulação dos dados, acesse o material explicativo: https://www.canva.com/design/DAGSVySRK0s/DE3G-5QJOOIjSAy_YP2v1w/edit?utm_content=DAGSVySRK0s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Para mais detalhes sobre as principais dificuldades e soluções no processo de limpeza e manipulação dos dados, acesse o [material explicativo] (https://www.canva.com/design/DAGSVySRK0s/DE3G-5QJOOIjSAy_YP2v1w/edit?utm_content=DAGSVySRK0s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Execução e Reprodutibilidade
-O projeto foi desenvolvido na plataforma Google Colaboratory e o código completo pode ser acessado por meio do seguinte link: https://colab.research.google.com/drive/1cwx4KAT3OHpK8XFzSlmMOaXX2tCqvlWZ?usp=sharing
+O projeto foi desenvolvido na plataforma Google Colaboratory e o código completo pode ser acessado por meio do seguinte [link] (https://colab.research.google.com/drive/1cwx4KAT3OHpK8XFzSlmMOaXX2tCqvlWZ?usp=sharing)
 
-A planilha original utilizada no projeto foi disponibilizada pelo IBAMA e pode ser acessada aqui: https://dadosabertos.ibama.gov.br/dataset/efluentes-liquidos
+A planilha original utilizada no projeto foi disponibilizada pelo IBAMA e pode ser acessada [aqui] (https://dadosabertos.ibama.gov.br/dataset/efluentes-liquidos)
 
 
 Caso precise de mais informações ou queira explorar outras abordagens, estarei à disposição!
