@@ -21,4 +21,5 @@ A planilha original utilizada no projeto foi disponibilizada pelo IBAMA e pode s
 Caso precise de mais informações ou queira explorar outras abordagens, estarei à disposição!
 
 Linguagem de programação: Python
+
 Pacotes utilizados: pandas, requests, chardet, IPython.display, re, numpy, matplotlib, folium
