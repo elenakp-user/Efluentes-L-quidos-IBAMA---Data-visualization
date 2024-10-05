@@ -18,8 +18,13 @@ O projeto foi desenvolvido na plataforma Google Colaboratory e o código complet
 A planilha original utilizada no projeto foi disponibilizada pelo IBAMA e pode ser acessada [aqui](https://dadosabertos.ibama.gov.br/dataset/efluentes-liquidos)
 
 
-Caso precise de mais informações ou queira explorar outras abordagens, estarei à disposição!
 
 Linguagem de programação: Python
 
 Pacotes utilizados: pandas, requests, chardet, IPython.display, re, numpy, matplotlib, folium
+
+
+
+
+Caso precise de mais informações ou queira explorar outras abordagens, estarei à disposição!
+
