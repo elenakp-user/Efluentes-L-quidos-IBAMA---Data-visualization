@@ -9,6 +9,7 @@ Principais Análises Realizadas:
 - Tipos de tratamentos mais utilizados nas indústrias;
 - Principais atividades econômicas geradoras de efluentes líquidos;
 - Mapeamento geográfico das atividades por categoria.
+  
 Além dessas análises, o projeto ainda oferece potencial para outras investigações, aproveitando as ramificações estabelecidas durante a preparação dos dados.
 
 <br/>
