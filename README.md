@@ -2,7 +2,7 @@
 
 Projeto realizado em 2023 com o objetivo de analisar o cenário brasileiro relacionado ao descarte inadequado de efluentes líquidos, um problema ambiental grave no país.
 
-O estudo utilizou um dataset publicado e mantido pelo IBAMA, abrangendo informações sobre a geração e descarte de efluentes líquidos em diversas regiões do Brasil. A abordagem do projeto envolveu a limpeza e preparação dos dados, realizando um processo de limpeza para garantir a consistência e integridade do dataset, criando um ambiente adequado para a análise.
+O estudo utilizou um dataset publicado e mantido pelo IBAMA, abrangendo informações sobre a geração e descarte de efluentes líquidos em diversas regiões do Brasil. A abordagem do projeto envolveu a preparação dos dados, realizando um processo de limpeza para garantir a consistência e integridade do dataset, criando um ambiente adequado para a análise.
 
 Principais Análises Realizadas:
 - Estados com maior geração de efluentes líquidos no Brasil;
